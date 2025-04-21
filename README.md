@@ -6,4 +6,4 @@ A simple login / register project utilizing PyMySql, Docker-Compose.
 - Dockerized environment
 - MySQL + Python (PyMySQL)
 - Easy setup with docker-compose
-- Hashlib for password encryption.
+- Hashlib for password encryption
