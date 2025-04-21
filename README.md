@@ -1,8 +1,9 @@
 # Login Test
 
-A simple login / register project utilizing PyMySql and Docker-Compose and Hashlib for password protection.
+A simple login / register project utilizing PyMySql, Docker-Compose.
 
 ## Features
 - Dockerized environment
 - MySQL + Python (PyMySQL)
 - Easy setup with docker-compose
+- Hashlib for password encryption.
