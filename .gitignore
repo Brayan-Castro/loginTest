@@ -1,0 +1,51 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv/
+venv/
+env/
+
+# pipenv, poetry, etc.
+Pipfile.lock
+poetry.lock
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# PyCharm & VS Code
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Local DB or other temp data
+*.sqlite3
+*.db
+
+# === Docker ===
+*.pid
+*.seed
+docker-compose.override.yml
+.env.docker
+.dockerignore
+
+# Docker volumes
+/mysql_data
+
+# === OS / Misc ===
+.DS_Store
+Thumbs.db
+
+# === Git ===
+.git/
