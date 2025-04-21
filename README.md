@@ -6,8 +6,3 @@ A simple login / register project utilizing PyMySql and Docker-Compose and Hashl
 - Dockerized environment
 - MySQL + Python (PyMySQL)
 - Easy setup with docker-compose
-
-## Getting Started
-
-```bash
-docker-compose up
