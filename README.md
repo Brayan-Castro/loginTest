@@ -20,6 +20,7 @@ A simple login / register project utilizing PyMySql, Docker-Compose.
 
 ## Planned Changes
 
+- Add comments;
 - 'Token' to effectively log-in a user;
 - Add a second table to the database with dummy data to simulate users with independent data;
 - 'Cookie' to keep user logged in from the start;
