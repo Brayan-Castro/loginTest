@@ -1,5 +1,12 @@
+# This is a sample .env file
+
+# MySQL Configuration
 MYSQL_ROOT_PASSWORD = "root"
 MYSQL_DATABASE = "test_db"
 MYSQL_USER = "test_user"
 MYSQL_PASSWORD = "test_password"
 MYSQL_HOST = "localhost"
+
+# SMTPlib Configuration
+SENDER_EMAIL = "email@example.com"
+SENDER_PW = "example_password"
