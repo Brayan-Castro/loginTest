@@ -68,7 +68,7 @@ def main():
                 return
 
             password = input('Enter password: ')
-            password_ver = input('Confirma password: ')
+            password_ver = input('Confirm password: ')
 
             if password_ver == password:
                 hashed_password = hash_password(password)
